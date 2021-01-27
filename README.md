@@ -15,8 +15,8 @@ Information from - [https://en.wikipedia.org/wiki/Boracay](https://en.wikipedia.
 
 
 Github link
-- GH repo: []()
-- GH Pages site: []()
+- GH repo: [https://github.com/nozky/cpnt260-a1](https://github.com/nozky/cpnt260-a1)
+- GH Pages site: https://nozky.github.io/cpnt260-a1/](https://nozky.github.io/cpnt260-a1/)
 
 ---
 _AUTHOR_:
