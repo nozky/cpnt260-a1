@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Gorditas&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gorditas&family=Special+Elite&display=swap');
+
+
+
+*{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: clamp(0.8rem, 2vw, 1.1rem);
+  line-height: 1.5rem;
+}
+
+body{
+  background-color: rgb(255, 254, 249);
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+}
+
+/* sitename and logo */
+.sitename-logo{
+  display: flex;
+  justify-content:flex-start ;
+  align-items: center;
+}
+
+.sitename-logo .sitename{
+  font-family: 'Special Elite', cursive;
+  font-size: 3rem;
+  line-height: 2rem;
+}
+
+.sitename-logo .logo{
+  width: 18%;
+  margin: 0 2rem;
+  transform: rotate(-35deg);
+  -webkit-transform: rotate(-35deg);
+  -moz-transform: rotate(-35deg);
+  -ms-transform: rotate(-35deg);
+  -o-transform: rotate(-35deg);
+}
+
+.sitename-logo .logo img{
+  width: 100%;
+  height: 100%;
+}
+
+
+/* navigation bar */
+.navbar-main{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 2rem;
+}
+
+.navbar-main .navbar-main-item{
+  margin: 1rem 1rem;
+  list-style: none;
+}
+
+.navbar-main .navbar-main-item:hover{
+  transform: scale(1.3);
+  -webkit-transform: scale(1.3);
+  -moz-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  -o-transform: scale(1.3);
+  transition: 0.5s;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -o-transition: 0.5s;
+}
+
+.navbar-main-item >*{
+  text-decoration: none;
+  color:rgb(45, 45, 105);
+}
+
+.navbar-main-item:nth-child(5){
+  background-color: rgb(148, 148, 226);
+  padding: 0.4rem;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+/* main */
+main{
+  position: relative;
+  flex-grow: 1;
+  padding-top: 3rem;
+  min-height: 60%;
+}
+
+main::before{
+  content:"";
+  /* background-color: rgb(100, 6, 6); */
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-image: url(/assests/images/gian-paul-guinto-ufYFr90FgXQ-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+  opacity: 0.9;
+}
+
+
+/* content */
+main .content >*{
+  margin: 2rem 2rem;
+}
+
+main .content .section-a{
+  display: flex;
+  flex-direction: column;
+  flex: 2 0 50%;
+}
+
+main .content .section-a >*,a {
+  color: white;
+  list-style: none;
+}
+
+main .content .section-a h1{
+  font-family: 'Gorditas', cursive;
+  font-size: 3rem;
+  margin-bottom: 3rem;
+  line-height: 2.3rem;
+}
+
+main .content .section-b{
+  flex: 1 0 30%;
+}
+
+
+.content-a{
+  /* background-color: red; */
+  margin: 1rem 0;
+  padding: 0.5rem 2rem;
+}
+
+.content-a > *{
+  color: black;
+}
+
+.content-a h2{
+  font-size: 2rem;
+}
+
+.content-a > p, h2{
+  margin-bottom: 1rem;
+}
+
+
+.content-a ul{
+  margin: 1rem 0;
+}
+
+.content-a a{
+  color: rgb(18, 21, 150);
+  list-style: none;
+}
+
+footer{
+  text-align: center;
+  background-color: rgb(223, 214, 211);
+}
+
+
