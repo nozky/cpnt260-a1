@@ -108,7 +108,7 @@ main::before{
   background-size: cover;
   background-position: center;
   z-index: -1;
-  opacity: 0.9;
+  opacity: 1;
 }
 
 
@@ -129,6 +129,7 @@ main .content .section-a >*,a {
 }
 
 main .content .section-a h1{
+  color: rgb(250, 250, 250);
   font-family: 'Gorditas', cursive;
   font-size: 3rem;
   margin-bottom: 3rem;
