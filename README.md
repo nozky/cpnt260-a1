@@ -9,7 +9,9 @@ This site serve as a hub of information for those people wanted to know more abo
 
 Credit to the following sources..
 
-Font - [https://fonts.google.com/](https://fonts.google.com/) Photo - by [Gian Paul Guinto](https://unsplash.com/@theaurumera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/collections/4867724/philippines?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Font - [https://fonts.google.com/](https://fonts.google.com/) 
+
+Photo - by [Gian Paul Guinto](https://unsplash.com/@theaurumera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/collections/4867724/philippines?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 Information from - [https://en.wikipedia.org/wiki/Boracay](https://en.wikipedia.org/wiki/Boracay)
 
