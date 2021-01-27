@@ -10,6 +10,7 @@
 }
 
 body{
+  margin-top: 2rem;
   background-color: rgb(255, 254, 249);
   height: 100vh;
   width: 100vw;
