@@ -21,6 +21,11 @@ Github link
 
 - GH Pages site: [https://nozky.github.io/cpnt260-a1](https://nozky.github.io/cpnt260-a1)
 
+
+*Issue...*
+ Background image and text contrast issue, But i dont want to change how it looks like. 
+
+
 ---
 _AUTHOR_:
 Norvillie Villaruel
