@@ -1,3 +1,14 @@
+
+
+_AUTHOR_:
+Norvillie Villaruel
+
+---
+
+_Note: This might be different file from the one i uploaded in brigthspace. I made couple commit on this file._
+
+
+
 # Web Page Construction Fundamental
 ---
 
@@ -23,10 +34,11 @@ Github link
 
 
 *Issue...*
- Background image and text contrast issue, But i dont want to change how it looks like. 
+ Background image and text contrast issue not getting and AA, But i like what it looks so i just leave it that way. :) 
+
+>***_Html Validation Error._***
+>Element li not allowed as child of element nav in this context. 
+>I want to find out, why?
 
 
----
-_AUTHOR_:
-Norvillie Villaruel
 
