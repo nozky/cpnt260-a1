@@ -13,7 +13,7 @@ This website is meant for the local government of Boracay Island to help them pr
 
 This site serve as a hub of information for those people wanted to know more about the the place.
 
-Credit to the following sources..
+## Credit to the following sources..
 
 Font - [https://fonts.google.com/](https://fonts.google.com/) 
 
